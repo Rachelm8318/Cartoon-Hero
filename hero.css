@@ -1,0 +1,18 @@
+header{
+	background-color: #0099FF;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+}
+/*<header>
+		<img src="profile.jpg">
+		<h1>Tina Belcher</h1>
+	</header>*/
